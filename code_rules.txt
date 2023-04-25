@@ -1,2 +1,3 @@
 Code Rules #1 - Make a logic proper before writing codes.
 Code Rules #2 - Refactor the code that other people can read and understad your code.
+Code Rules #3 - If you can't make logic try to reasearch on internet.
